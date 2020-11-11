@@ -1,0 +1,109 @@
+
+
+
+
+/* INDEX.html */
+
+
+
+
+body {
+  text-align: center;
+  width: auto;
+}
+
+h1 {
+
+  font-family: 'Pragati Narrow', sans-serif;
+  font-weight: bolder;
+
+}
+h3 {
+  font-family: 'Pragati Narrow', sans-serif;
+  font-weight: bolder;
+  margin-top: 50px;
+
+
+}
+
+.pae {
+  font-size: 1.2rem;
+}
+
+
+/* navbar */
+.navbar {
+  padding: 0 0 10rem;
+}
+
+
+.navbar-brand {
+  font-size: 6rem;
+
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-family: 'Lobster Two', cursive;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+
+/* top part*/
+.intro {
+  text-align: center;
+  margin: 20px;
+  font-weight: 900;
+  font-family: 'Lobster Two', cursive;
+  font-size: 3.5rem;
+}
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.top {
+  margin: 25px;
+  line-height: 2;
+}
+
+
+/* middle */
+
+.welcome {
+margin: 20px;
+}
+
+
+/* lower */
+.lower-container {
+  background-color: #343a40;
+  color: white;
+
+  padding: 7% 10%;
+}
+
+.text-j1 {
+  margin-top: 35px;
+}
+
+.social-link {
+  line-height: 1.8rem;
+
+}
+.para {
+  margin: 50px;
+  text-align: center;
+}
+.footer-links {
+  color: #007bff;
+}
+.heading-below {
+  margin-bottom: 2.3rem;
+}
